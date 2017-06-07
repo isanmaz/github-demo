@@ -1,0 +1,23 @@
+.right-chart{
+    color: aqua;
+    border: 25px solid green;
+    width: 300;
+    height: 500;
+    
+    
+   margin: 0 0 10px 10px;
+    float: right;
+    
+    
+}
+
+.left-chart{
+    color: red;
+    float: left;
+    border: 25px solid green;
+    width: 300;
+    height: 500;
+    margin-left: 10px;
+    padding-right: 20px;
+    
+}
